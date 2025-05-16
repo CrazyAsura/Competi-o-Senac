@@ -1,1 +1,1 @@
-# Competi-o-Senac
+# Competicao-Senac
